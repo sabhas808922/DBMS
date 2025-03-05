@@ -1,6 +1,7 @@
 # DBMS
 all you need to know to handle data
 __________________________________________________________
+```mermaid
 graph TD;
     A[Database Concepts] --> B[Basic Concepts]
     A --> C[Characteristics of DBMS]
@@ -82,3 +83,5 @@ graph TD;
     J --> J4[Not Null]
     J --> J5[Check]
     J --> J6[IN Operator]
+
+```
