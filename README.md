@@ -5,10 +5,10 @@ graph TD;
     A[Database Concepts] --> B[Basic Concepts]
     A --> C[Characteristics of DBMS]
     A --> D[Concepts and Architecture]
-    A --> E[Data Models, Schemas & Instances]
+    A --> E[Data Models, Schemas and Instances]
     A --> F[DBMS Architecture]
-    A --> G[Database Languages & Interfaces]
-    A --> H[Data Modelling (ER Model)]
+    A --> G[Database Languages and Interfaces]
+    A --> H[Data Modelling - ER Model]
     A --> I[SQL]
     A --> J[Constraints]
 
@@ -23,7 +23,7 @@ graph TD;
     C --> C2[Data Independence]
     C --> C3[Multiple Views]
     C --> C4[Data Sharing]
-    C --> C5[Integrity & Security]
+    C --> C5[Integrity and Security]
     C --> C6[Transaction Management]
 
     D --> D1[Three-Schema Architecture]
@@ -46,10 +46,10 @@ graph TD;
     F --> F2[Client-Server]
     F --> F3[Distributed]
 
-    G --> G1[DDL (Data Definition Language)]
-    G --> G2[DML (Data Manipulation Language)]
-    G --> G3[DCL (Data Control Language)]
-    G --> G4[Interfaces (Forms, GUIs, APIs)]
+    G --> G1[DDL - Data Definition Language]
+    G --> G2[DML - Data Manipulation Language]
+    G --> G3[DCL - Data Control Language]
+    G --> G4[Interfaces - Forms, GUIs, APIs]
 
     H --> H1[Entities]
     H --> H2[Attributes]
